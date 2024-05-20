@@ -102,7 +102,7 @@ It's pipeline consists of :
 - **Merge ActionTrees**: LLM takes in multiple aciton trees and orignal query to build a final solution.
 - **Parsing**: Merged Tree is pared into the JSON format in the correct.
 
-![Reverse-Chain](swissnyf/media/REMAP.jpeg)
+<img src="swissnyf/media/TOPGUN.jpeg" width=75% height=75%>
 
 
 
@@ -113,5 +113,5 @@ It's pipeline consists of :
 - **Function Call Stack**: Stores the call sequence of the executable generated code, in a tree structure
 - **Parsing**: Tree is parsed to obtain the final JSON format in correct order.
 
-<img src="swissnyf/media/TOPGUN.jpeg" width=50% height=50%>
+<img src="swissnyf/media/TOPGUN.jpeg" width=75% height=75%>
 
