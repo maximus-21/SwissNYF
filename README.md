@@ -102,7 +102,7 @@ It's pipeline consists of :
 - **Merge ActionTrees**: LLM takes in multiple aciton trees and orignal query to build a final solution.
 - **Parsing**: Merged Tree is pared into the JSON format in the correct.
 
-<img src="swissnyf/media/TOPGUN.jpeg" width=75% height=75%>
+<img src="swissnyf/media/REMAP.jpeg" width=75% height=75%>
 
 
 
