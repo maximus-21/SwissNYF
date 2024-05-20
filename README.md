@@ -113,6 +113,5 @@ It's pipeline consists of :
 - **Function Call Stack**: Stores the call sequence of the executable generated code, in a tree structure
 - **Parsing**: Tree is parsed to obtain the final JSON format in correct order.
 
-
-![TOPGUN](swissnyf/media/TOPGUN.jpeg)
+<img src="swissnyf/media/TOPGUN.jpeg" width=50% height=50%>
 
